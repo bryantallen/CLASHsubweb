@@ -14,5 +14,7 @@ DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,btsearch.love
 # 雀魂AI
 DOMAIN-SUFFIX,ekyu.moe
-# 雀魂AI
+# cloudflare
 DOMAIN-SUFFIX,cloudflare.com
+# 站长工具
+DOMAIN-SUFFIX,chinaz.com
