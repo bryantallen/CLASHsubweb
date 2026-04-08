@@ -1,3 +1,4 @@
-DOMAIN-SUFFIX,bcy-url.xyz,direct
-DOMAIN,www.bcy-url.xyz,direct
-DOMAIN-SUFFIX,52pojie.cn,direct
+HOST-SUFFIX,bcy-url.xyz,direct
+HOST,www.bcy-url.xyz,direct
+HOST-SUFFIX,52pojie.cn,direct
+HOST-KEYWORD,douyin,direct
